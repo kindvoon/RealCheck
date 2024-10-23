@@ -1,0 +1,137 @@
+{
+    "global": {
+        "mainButton": {
+            "backgroundColor": "#00FFFFFF",
+            "backgroundImage": "face_confirm_button@2x.png",
+            "textColor": "#FFFFFF",
+            "fontSize": 32,
+            "textPadding": {
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "bottom": 0
+            }
+        }
+    },
+    "native": {
+        "global": {
+            "alertDialog": {
+                "positiveText": {
+                    "textColor": "#60A3FC",
+                    "fontSize": 32
+                },
+                "negativeText": {
+                    "textColor": "#999999",
+                    "fontSize": 32
+                },
+                "titleText": {
+                    "textColor": "#333333",
+                    "fontSize": 32
+                },
+                "messageText": {
+                    "textColor": "#333333",
+                    "fontSize": 28
+                }
+            },
+            "navigator": {
+                "closeImageView": {
+                    "src": "face_close_btn@2x.png"
+                }
+            }
+        },
+        "guidePage": {
+            "titleText": {
+                "textColor": "#333333",
+                "fontSize": 40
+            },
+            "messageText": {
+                "textColor": "#8C94A8",
+                "fontSize": 24
+            },
+            "markMessageText": {
+                "textColor": "#4178FF",
+                "fontSize": 40
+            },
+            "actionTipText": {
+                "textColor": "#333333",
+                "fontSize": 36
+            },
+            "privacyTipText": {
+                "textColor": "#999999",
+                "fontSize": 26
+            }
+        },
+        "welcomePage": {
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            },
+            "bannerControl": {
+                "backgroundColor": "#4E6AF0"
+            }
+        },
+        "privacyPage": {
+            "mainButton": {
+                "backgroundColor": "#00FFFFFF",
+                "backgroundImage": "face_confirm_button@2x.png",
+                "textColor": "#FFFFFF",
+                "fontSize": 32,
+                "textPadding": {
+                    "left": 0,
+                    "right": 0,
+                    "top": 0,
+                    "bottom": 0
+                }
+            },
+            "logoImageView": {
+                "src": "face_security_icon@2x.png"
+            }
+        },
+        "detectPage": {
+            "actionTipText": {
+                "textColor": "#333333",
+                "fontSize": 40
+            },
+            "messageText": {
+                "textColor": "#333333",
+                "fontSize": 32
+            },
+            "markMessageText": {
+                "textColor": "#4178FF",
+                "fontSize": 32
+            },
+            "detectAnimation": {
+                "warningColor": "#F6493F",
+                "loadingColor": "#188FFF"
+            }
+        },
+        "resultPage": {
+            "titleText": {
+                "textColor": "#333333",
+                "fontSize": 40
+            },
+            "messageText": {
+                "textColor": "#333333",
+                "fontSize": 30
+            },
+            "markMessageText": {
+                "textColor": "#FF0000",
+                "fontSize": 30
+            },
+            "promptFailImageView": {
+                "src": "face_result_icon_fail@2x.png"
+            },
+            "promptSucceedImageView": {
+                "src": "face_result_icon_ok@2x.png"
+            }
+        }
+    }
+}

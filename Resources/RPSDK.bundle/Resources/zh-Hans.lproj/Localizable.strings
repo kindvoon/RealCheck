@@ -1,0 +1,66 @@
+/*
+  zh.strings
+  ALRealIdentity
+
+  Created by keke feng on 2021/5/12.
+  Copyright © 2021 Alibaba. All rights reserved.
+*/
+
+
+"rpsdkGuidTitle"="请本人亲自操作";
+"rpsdkGuidSubtitle"="脸部无遮挡，正对手机，他人操作无效";
+"rpsdkGuidButtonText"="开始验证";
+"rpsdkGuidPrivacyText"="人脸信息非您许可不会用于其它用途";
+
+"rpsdkDetectYawText"="左右摇头";
+"rpsdkDetectBlinkText"="眨下眼";
+"rpsdkDetectMouthText"="张下嘴";
+"rpsdkDetectPitchText"="上下点头";
+"rpsdkDetectStillText"="请注视屏幕";
+
+"rpsdkDetectDarkTip"="太暗了";
+"rpsdkDetectTooBrightTip"="光线太亮";
+"rpsdkDetectFaceLightTip"="请面部正对光源";
+"rpsdkDetectLDistanceTip"="靠近点";
+"rpsdkDetectSDistanceTip"="离远点";
+"rpsdkDetectRaisePhoneTip"="手机拿高点";
+"rpsdkDetectShakeTip"="亲,手机别晃";
+"rpsdkDetectActionTooSmallTip"="动作大一点";
+"rpsdkDetectPitchTip"="请正对屏幕";
+"rpsdkDetectKeepFaceTip"="请保持面孔在框内";
+"rpsdkDetectHomeEventTip"="采集中断了，重新开始吧";
+"rpsdkDetectActionFailTip"="验证不通过";
+"rpsdkDetectActionFailMsgTip"="动作频率不要太快，建议摘掉眼镜等饰品";
+"rpsdkDetectActionFailMsgTimeout"="请保持面部在框内，并按提示做操作";
+
+"rpsdkDetectActionFailTipOcclusion"="请不要遮挡嘴部";
+"rpsdkDetectActionFailTipFaceDismiss"="请保持手机平稳";
+"rpsdkDetectActionFailTipActionWrong"="请按提示做动作";
+"rpsdkDetectActionFailTipCommon"="动作不要太快";
+"rpsdkDetectRecapFailMsgTip"="验证失败，请确保是账户本人操作";
+"rpsdkDetectRecognizeFailTip"="验证未通过";
+"rpsdkDetectRecognizeFailMsgTip"="请确保是本人操作，在脸部无遮挡、光线良好的环境下重试。";
+"rpsdkDetectNetworkFailTip"="网络无法连接";
+"rpsdkDetectUploadImageFailTip"="图片上传失败"; // 英语待翻译
+"rpsdkDetectARUPUploadFailTip"="数据上传失败"; // 日语和英语待翻译
+
+"rpsdkDetectNetworkFailMsgTip"="请检查网络或稍后再试";
+"rpsdkDetectRetryLimitTip"="验证不通过，请稍后再试";
+"rpsdkDetectHandleLimitTip"="操作太频繁了，请稍后再试";
+"rpsdkDetectImageQualityLessTip"="采集未通过，再试一次吧";
+"rpsdkDetectCameraPermissionDeniedTitle"="无法打开相机";
+"rpsdkDetectCameraPermissionDeniedMsg"="需要使用前置摄像头进行人脸验证，请开启本应用的摄像头访问权限";
+"rpsdkDetectCameraSetting"="去开启";
+"rpsdkDetectCameraInitFail"="摄像头初始化失败";
+"rpsdkDetectSystemErrorTip"="系统错误";
+"rpsdkDetectOK"="确定";
+"rpsdkDetectCancel"="取消";
+"rpsdkDetectRetry"="再来一次";
+"rpsdkDetectBack"="退出重试";
+"rpsdkDetectAlertTitle"="退出验证将无法保存您当前的验证进度，您确认要退出验证吗？";
+"rpsdkDetectLoadingText"="正在识别，请稍等";
+
+"rpsdkDetectSoundBlink"="face_blink";
+"rpsdkDetectSoundMouth"="face_open_mouth";
+"rpsdkDetectSoundPitch"="face_pitch_up";
+"rpsdkDetectSoundYaw"="face_yaw_left_right";
